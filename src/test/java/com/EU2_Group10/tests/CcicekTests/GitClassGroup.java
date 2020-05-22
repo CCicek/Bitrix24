@@ -1,13 +1,13 @@
 package com.EU2_Group10.tests.CcicekTests;
 
-public class test1try {
+public class GitClassGroup {
 
     public static void main(String[] args) {
 
-        System.out.println("Just for try");
+        //Hello
 
+        //Hello Again
     }
 
 
-    //Hello Mami
 }
