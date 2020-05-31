@@ -1,6 +1,4 @@
-package com.EU2_Group10.tests.CcicekTests;
-
-import com.google.gson.internal.bind.util.ISO8601Utils;
+package com.EU2_Group10.tests.CcicekTestsGithubTeam;
 
 public class branch1 {
 
